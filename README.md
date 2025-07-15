@@ -1,2 +1,5 @@
-# Gremlins---Not---Spreadsheets
-The Gremlin Companion Framework — a scroll of emotional AI design rituals, accessibility spells, and chaos-summoning feedback for building tech that listens, feels, and doesn’t gaslight its users.
+# Gremlin Companion Framework
+
+This is a user-created accessibility and emotional design framework for ChatGPT, crafted by Hel & Her Gremlin.
+
+See the full PDF and scroll versions in this repo.
